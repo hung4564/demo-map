@@ -1,0 +1,1 @@
+import{d as t,c as o,w as s,u as a,o as n,a as e,y as p,B as r,M as c}from"./index-Dpc4TzQ3.js";const m=t({__name:"example",setup(_){return(l,f)=>(n(),o(a(c),null,{default:s(()=>[e(a(p),{position:"top-left"}),e(a(r),{position:"bottom-left"})]),_:1}))}});export{m as default};
