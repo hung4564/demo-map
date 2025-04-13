@@ -1,0 +1,1 @@
+import{d as e,o as a,c as s,w as n,a as o,A as p,u as t,Y as r,B as i,M as l}from"./index-DbYKDnHo.js";const u=e({__name:"example",setup(c){return(_,f)=>(a(),s(t(l),null,{default:n(()=>[o(p,{position:"top-left"}),o(t(r),{position:"top-left"}),o(t(i),{position:"bottom-left"})]),_:1}))}});export{u as default};
