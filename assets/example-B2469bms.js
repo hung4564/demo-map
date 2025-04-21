@@ -1,0 +1,1 @@
+import{d as a,o as e,c as s,w as n,a as o,u as t,a9 as p,B as r,M as i}from"./index-CRHq7x36.js";import{A as l}from"./aside-control-Dk3Ls_Ul.js";const d=a({__name:"example",setup(c){return(f,_)=>(e(),s(t(i),null,{default:n(()=>[o(l,{position:"top-left"}),o(t(p),{position:"top-left"}),o(t(r),{position:"bottom-left"})]),_:1}))}});export{d as default};
