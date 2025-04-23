@@ -1,0 +1,1 @@
+*{padding:0;margin:0}body,html,#root{height:100%}.buttons-container{position:fixed;top:10px;left:10px;z-index:99;display:flex;gap:8px;padding:8px}.buttons-container button{background-color:transparent;padding:8px}.buttons-container button:hover{background-color:#00f}.highlight{background-color:red}#btn-highlight{height:10px;width:100%}
