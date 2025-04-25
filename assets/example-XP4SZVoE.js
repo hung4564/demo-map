@@ -1,0 +1,1 @@
+import{d as a,o as e,c as s,w as n,a as o,u as t,ab as p,B as r,M as i}from"./index-B_n5O5IR.js";import{A as l}from"./aside-control-Cv3EvTCs.js";const d=a({__name:"example",setup(c){return(f,_)=>(e(),s(t(i),null,{default:n(()=>[o(l,{position:"top-left"}),o(t(p),{position:"top-left"}),o(t(r),{position:"bottom-left"})]),_:1}))}});export{d as default};
