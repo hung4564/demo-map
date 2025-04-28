@@ -1,0 +1,1 @@
+import{d as a,o as e,c as s,w as n,a as o,u as t,_ as p,B as r,M as i}from"./index-DwGWRouJ.js";import{A as c}from"./aside-control-BpksgB7d.js";const d=a({__name:"inspect",setup(_){return(f,l)=>(e(),s(t(i),null,{default:n(()=>[o(c,{position:"top-left"}),o(t(p),{position:"top-right"}),o(t(r),{position:"bottom-left"})]),_:1}))}});export{d as default};
