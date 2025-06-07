@@ -1,0 +1,1 @@
+import{d as a,c as e,o as s,w as n,a as o,u as t,ap as p,B as r,l as i}from"./index-CRtOk2sP.js";import{A as l}from"./aside-control-UJBpTefG.js";const d=a({__name:"example",setup(c){return(f,_)=>(s(),e(t(i),null,{default:n(()=>[o(l,{position:"top-left"}),o(t(p),{position:"top-left"}),o(t(r),{position:"bottom-left"})]),_:1}))}});export{d as default};
