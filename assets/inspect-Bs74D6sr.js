@@ -1,0 +1,1 @@
+import{d as a,c as e,o as s,w as n,u as t,M as p,a as o,A as i,p as r,B as c}from"./index-CBvdyeUG.js";const m=a({__name:"inspect",setup(_){return(l,f)=>(s(),e(t(p),null,{default:n(()=>[o(i,{position:"top-left"}),o(t(r),{position:"top-right"}),o(t(c),{position:"bottom-left"})]),_:1}))}});export{m as default};
