@@ -1,0 +1,1 @@
+import{d as a,o as s,c as e,w as n,a as t,A as i,u as o,a1 as _,m as c,r}from"./index-MvhLeiIX.js";const u=a({__name:"inspect",setup(p){return(f,m)=>(s(),e(o(r),null,{default:n(()=>[t(i,{position:"top-left"}),t(o(_),{position:"top-right"}),t(o(c),{position:"bottom-left"})]),_:1}))}});export{u as default};
