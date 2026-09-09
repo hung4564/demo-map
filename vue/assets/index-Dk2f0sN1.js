@@ -1,0 +1,1 @@
+function s(e){var t;const n=(t=e.properties)==null?void 0:t.id,r=e.id??n;return r??void 0}function a(e,n){const r=s(e),t=s(n);return r!=null&&t!=null&&String(r)===String(t)}const u=(e,n,r=[])=>{const t=e.project(n),o=[[t.x-5,t.y-5],[t.x+5,t.y+5]];return e.queryRenderedFeatures(o,{layers:r})},c=(e,n,r=[])=>{const t=u(e,n,r);if(!(!t||t.length<1))return t[0]};export{c as g,a as s};
