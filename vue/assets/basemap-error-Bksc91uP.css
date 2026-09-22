@@ -1,0 +1,1 @@
+.basemap-error-note{position:fixed;top:12px;left:50%;transform:translate(-50%);z-index:5;max-width:min(480px,calc(100vw - 24px));padding:8px 12px;background:var(--map-surface-color, #fff);border:1px solid var(--map-border-color, #ddd);border-radius:4px;font-size:13px;line-height:1.4}

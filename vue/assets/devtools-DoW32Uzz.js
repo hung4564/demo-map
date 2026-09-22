@@ -1,0 +1,1 @@
+import{d as a,c as e,w as s,u as t,_ as n,a as o,b as _,e as i,A as r,q as c,v as m}from"./index-D8aSPhvF.js";import{D as f}from"./DemoHelpPanel-Dv2Zw10F.js";const b=a({__name:"devtools",setup(p){return(l,u)=>(m(),e(t(n),null,{default:s(()=>[o(t(_),{position:"bottom-right"}),o(i),o(r,{position:"top-left"}),o(t(c),{position:"bottom-left"}),o(f)]),_:1}))}});export{b as default};
