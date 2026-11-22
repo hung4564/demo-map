@@ -1,0 +1,1 @@
+import{d as a,c as s,w as e,u as t,_ as n,o as _,a as o,b as i,q as r,v as c,A as m}from"./index-C_f87LWo.js";import{D as f}from"./DemoHelpPanel-CE9QQ_4-.js";const b=a({__name:"devtools",setup(p){return(l,u)=>(_(),s(t(n),null,{default:e(()=>[o(t(i),{position:"bottom-right"}),o(c),o(m,{position:"top-left"}),o(t(r),{position:"bottom-left"}),o(f)]),_:1}))}});export{b as default};
